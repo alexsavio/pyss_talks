@@ -43,3 +43,7 @@ figure.figsize : 10, 8
 figure.dpi       : 300
 
 legend.fancybox      : True
+
+image.interpolation  : nearest
+image.cmap : hot
+
